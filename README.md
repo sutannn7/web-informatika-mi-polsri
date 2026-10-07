@@ -2,7 +2,8 @@
 
 Website profil jurusan dengan data dosen dan berita yang dinamis. Dikerjakan secara mandiri, mulai dari desain antarmuka sampai backend.
 
-![Tampilan beranda](docs/beranda.png)
+<img width="1920" height="993" alt="polsri" src="https://github.com/user-attachments/assets/eb644f0a-e227-4462-9233-22a6e622142f" />
+
 
 ## Fitur
 - Halaman beranda, profil, dosen, mahasiswa, galeri, berita, dan kontak
